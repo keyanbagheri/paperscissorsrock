@@ -1,0 +1,39 @@
+body {
+  text-align: center;
+  background: url("http://media.npr.org/assets/img/2013/01/04/rocks081-a02ce6d328ef9173d525a77dd890150181e6b909-s6.jpg");
+  background-size: 180%;
+  background-position: right;
+  color: white;
+  font-family: helvetica;
+}
+.casing {
+  background: rgba(24,44,80,.5);
+  padding: 40px;
+  margin: 120px auto;
+}
+.logo {
+  text-align: left;
+  margin-top: auto;
+  margin-right: 290px;
+  background: rgba(24,44,80,.3);
+  color: white;
+  text-decoration: none;
+  padding: 10px;
+  line-height: 40px;
+  border-radius: 40px;
+}
+p {
+  font-size: 22px;
+}
+input {
+  border: 0;
+  padding: 10px;
+  font-size: 18px;
+}
+a {
+  background: red;
+  color: white;
+  text-decoration: none;
+  padding: 10px;
+  line-height: 40px;
+}
